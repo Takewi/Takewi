@@ -2,7 +2,9 @@
 <img align='right' src="https://i.pinimg.com/originals/f9/ba/23/f9ba232d6b18c80b3a95c1ec8dc1c796.gif" width="280" height="200">
 <p><em>Analysis and systems development at <a href="https://www.senacrs.com.br/unidades.asp?unidade=78">Senac Pelotas Faculty of Technology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
-</br>
+<em>My personal website:</em> <b>still in development</b>
+
+<em>Discord user name:</em> <b>Gawi_#0019</b>
 
 ### <img src="https://drive.google.com/uc?export=view&id=1dZ8Sr6upxtf0aRmdHDEXYDS9wxvBersy" width="30"> <em>Profiles on other platforms:</em>
 
@@ -11,25 +13,22 @@
 [![GitHub followers](https://img.shields.io/github/followers/Takewi?label=GitHub&style=social)](https://github.com/Takewi)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQzQ3vyOhPwzxYh4vRpyiWA?label=Youtube&style=social)](https://www.youtube.com/channel/UCQzQ3vyOhPwzxYh4vRpyiWA)
 
-</br>
 
 ---
 
+### 👨‍💻 <em>A little more about me... </em> 
+```javascript
+export const Takewi = {
+    pronouns: "He" | "His",
+    workMethodology: "Scrum",
+    languages: [JavaScript, Typescript, HTML, CSS, SCSS, Python, SQL],
+    frontTools: [React, Next, Vue],
+    backTools: [GraphQL, Nest, MySql, MongoDB, PostgreSQL, Express, Docker],
+    test: [Jest, Selenium, Cypress],
+};
+```
+
+### 📈 <em>Some statistics from my profile:</em>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takewi&show_icons=true&theme=tokyonight) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Takewi&hide=html&layout=compact&theme=tokyonight)
 
 ---
-
-<!--
-**Takewi/Takewi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
