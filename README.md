@@ -29,6 +29,15 @@ export const Takewi = {
 ```
 
 ### 📈 <em>Some statistics from my profile:</em>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takewi&show_icons=true&theme=tokyonight) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Takewi&hide=html&layout=compact&theme=tokyonight)
+
+<img align='right' src="https://drive.google.com/uc?export=view&id=1LIl-8I8IfMDr95YwvM06Y21RRHIrllxT" width="300" height="200">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takewi&show_icons=true&theme=tokyonight) 
+    
+<div align="center">
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Takewi&hide=html&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
