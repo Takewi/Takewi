@@ -15,7 +15,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takewi&show_icons=true&theme=tokyonight) <img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" width="110"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Takewi&hide=html&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takewi&show_icons=true&theme=tokyonight) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Takewi&hide=html&layout=compact&theme=tokyonight)
 
 ---
 
