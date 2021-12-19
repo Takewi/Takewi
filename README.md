@@ -25,7 +25,7 @@ export const Takewi = {
     frontTools: [React, Next, Vue],
     devOps: "Docker🐳",
     backTools: [GraphQL, Nest, Express],
-    databases: [mongoDB, MySQl, PostgreSQL],
+    databases: [MongoDB, MySQl, PostgreSQL],
     misc: "Firebase",
     test: [Jest, Selenium, Cypress],
 };
