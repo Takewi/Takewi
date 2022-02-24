@@ -22,7 +22,7 @@ export const Takewi = {
     pronouns: "He" | "His",
     workMethodology: "Scrum",
     languages: [JavaScript, Typescript, HTML, CSS, SCSS, Python, SQL],
-    frontTools: [React, Next, Vue],
+    frontTools: [React, Next, Vue, Nuxt],
     devOps: [Docker, Git],
     backTools: [GraphQL, Nest, Express],
     databases: [MongoDB, MySQl, PostgreSQL],
