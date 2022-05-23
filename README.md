@@ -1,5 +1,7 @@
 <h2 align="center">👋<em> Hi everyone, I'm Gustavo</em></h2>
-<img align='right' src="https://i.pinimg.com/originals/f9/ba/23/f9ba232d6b18c80b3a95c1ec8dc1c796.gif" width="280" height="200">
+
+<img style="display: block; margin: 0 auto" src="https://i.pinimg.com/originals/f9/ba/23/f9ba232d6b18c80b3a95c1ec8dc1c796.gif" width="280" height="200">
+
 <p><em>Analysis and systems development at <a href="https://www.senacrs.com.br/unidades.asp?unidade=78">Senac Pelotas Faculty of Technology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 <em>My personal website:</em><b> [click here](https://portfolio-takewi.vercel.app/)
