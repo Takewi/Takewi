@@ -23,13 +23,12 @@
 export const Takewi = {
     pronouns: "He" | "His",
     workMethodology: "Scrum",
-    languages: [JavaScript, Typescript, HTML, CSS, SCSS, Python, SQL],
+    languages: [JavaScript, Typescript, HTML, CSS, SCSS],
     frontTools: [React, Next, Vue, Nuxt, Svelte],
     devOps: [Docker, Git],
-    backTools: [GraphQL, Nest, Express],
-    databases: [MongoDB, MySQl, PostgreSQL],
-    misc: [Firebase, Bootstrap, "Atomic-Design", Tailwind],
-    test: [Jest, Selenium, Cypress],
+    backTools: [Nest, Express],
+    databases: [MySQl],
+    misc: [Firebase, Bootstrap, "Atomic-Design", Tailwind]
 };
 ```
 
