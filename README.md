@@ -21,7 +21,7 @@
 ### 👨‍💻 <em>A little more about me... </em> 
 ```javascript
 export const Takewi = {
-    pronouns: "He" | "His",
+    pronouns: "He" | "Him",
     workMethodology: "Scrum",
     languages: [JavaScript, Typescript, HTML, CSS, SCSS],
     frontTools: [React, Next, Vue, Nuxt, Svelte],
