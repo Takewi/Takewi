@@ -27,7 +27,7 @@ export const Takewi = {
     devOps: [Docker, Git],
     backTools: [Nest, Express],
     databases: [MySQl],
-    misc: [Firebase, Bootstrap, "Atomic-Design", Tailwind]
+    misc: [Firebase, Bootstrap, "Atomic-Design", Tailwind, Vuetify]
 };
 ```
 
