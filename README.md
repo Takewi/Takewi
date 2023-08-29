@@ -6,7 +6,7 @@
 
 <em>My personal website:</em><b> [click here](https://portfolio-takewi.vercel.app/)
 
-<em>Discord user name:</em> <b> Gawi_#0020 </b><img src="https://drive.google.com/uc?export=view&id=1WJ2QiRCVpP5EgzU8V3BYk3Rx4pZ-wkD0" width="30">
+<em>Discord user name:</em> <b> gawi_ </b><img src="https://drive.google.com/uc?export=view&id=1WJ2QiRCVpP5EgzU8V3BYk3Rx4pZ-wkD0" width="30">
 
 ### <img src="https://drive.google.com/uc?export=view&id=1dZ8Sr6upxtf0aRmdHDEXYDS9wxvBersy" width="30"> <em>Profiles on other platforms:</em>
 
