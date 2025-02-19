@@ -24,10 +24,10 @@ export const Takewi = {
     workMethodology: "Scrum",
     languages: [JavaScript, Typescript, HTML, CSS, SCSS],
     frontTools: [React, Next, Vue, Nuxt, Svelte, Quasar],
-    devOps: [Docker, Git, GitLab, Heroku, Vercel, npm],
+    devOps: [Docker, Git, GitLab, Heroku, Vercel, Npm, Yarn, CI/CD, "SemVer 2"],
     backTools: [Nest, Express],
     databases: [MySQl, SQLite],
-    misc: [Firebase, Bootstrap, "Atomic-Design", Tailwind, Vuetify]
+    misc: [Firebase, Bootstrap, "Atomic-Design", Tailwind, Vuetify, ThreeJs, DaisyUI]
 };
 ```
 
