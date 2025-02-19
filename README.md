@@ -10,7 +10,6 @@
 
 ### <img src="https://drive.google.com/uc?export=view&id=1dZ8Sr6upxtf0aRmdHDEXYDS9wxvBersy" width="30"> <em>Profiles on other platforms:</em>
 
-[![Twitter: Gawi_](https://img.shields.io/twitter/follow/Gawi_?style=social)](https://twitter.com/gawi2k21)
 [![Linkedin: Gustavo Viegas](https://img.shields.io/badge/-GustavoViegas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-viegas-8989a01b4/)](https://www.linkedin.com/in/gustavo-viegas-8989a01b4/)
 [![GitHub followers](https://img.shields.io/github/followers/Takewi?label=GitHub&style=social)](https://github.com/Takewi)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQzQ3vyOhPwzxYh4vRpyiWA?label=Youtube&style=social)](https://www.youtube.com/channel/UCQzQ3vyOhPwzxYh4vRpyiWA)
