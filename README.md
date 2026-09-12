@@ -4,7 +4,7 @@
 
 <p><em>Analysis and systems development at <a href="https://www.senacrs.com.br/unidades.asp?unidade=78">Senac Pelotas Faculty of Technology</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
-<em>My personal website:</em><b> [click here](https://portfolio-takewi.vercel.app/)
+<em>My personal website:</em><b> [click here]([https://portfolio-takewi.vercel.app/](https://takewi.com.br/))
 
 <em>Discord user name:</em> <b> gawi_ </b><img src="https://drive.google.com/uc?export=view&id=1WJ2QiRCVpP5EgzU8V3BYk3Rx4pZ-wkD0" width="30">
 
@@ -23,7 +23,7 @@ export const Takewi = {
     workMethodology: "Scrum",
     languages: [JavaScript, Typescript, HTML, CSS, SCSS],
     frontTools: [React, Next, Vue, Nuxt, Svelte, Quasar],
-    devOps: [Docker, Git, GitLab, Heroku, Vercel, Npm, Yarn, CI/CD, "SemVer 2"],
+    devOps: [Docker, Git, GitLab, Heroku, Vercel, Npm, Yarn, CI/CD, "SemVer 2", Cloudflare],
     backTools: [Nest, Express],
     databases: [MySQl, SQLite],
     misc: [Firebase, Bootstrap, "Atomic-Design", Tailwind, Vuetify, ThreeJs, DaisyUI]
