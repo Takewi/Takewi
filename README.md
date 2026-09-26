@@ -70,11 +70,11 @@ export const takewi = {
 <br />
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Takewi&show_icons=true&theme=tokyonight" alt="Takewi GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Takewi&show_icons=true&theme=tokyonight" alt="Takewi GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takewi&hide=html&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Takewi&hide=html&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <br clear="right" />
